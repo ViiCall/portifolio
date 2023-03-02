@@ -1,0 +1,23 @@
+body{
+  background-color: rgb(85, 125, 177);
+  margin: 0;
+}
+
+.container{
+  width: 100%;
+  background-color: rgb(129, 150, 207);
+
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
+
+
+.bem_vindo{
+  font-size: 35px;
+  color: rgb(61, 49, 128);
+}
+.txt{
+
+}
