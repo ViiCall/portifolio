@@ -1,11 +1,38 @@
-body{
-  background-color: rgb(85, 125, 177);
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifólio</title>
+    <script type="text/javascript" src="./index.js" defer=""></script>
+    <link rel="stylesheet" href="./index.css">
+  </head>
+
+  <body>
+    <div class="container">
+      <p class="bem_vindo">
+        Bem Vindo 
+      </p>
+    </div>
+    <header>
+   <div class="container"> <div class="txt"> Vitória Callegaro<br>Sobre mim: Vitóia,16, pipipipopopo nao seioq</div></header>
+
+   <div>
+
+
+
+  </body>
+
+</html>body{
+  background-color: rgb(182, 207, 238);
   margin: 0;
 }
 
 .container{
   width: 100%;
-  background-color: rgb(129, 150, 207);
+  background-color: rgb(162, 179, 221);
 
   display: flex;
 
@@ -15,9 +42,9 @@ body{
 
 
 .bem_vindo{
-  font-size: 35px;
-  color: rgb(61, 49, 128);
+  font-size: 60px;
+  color: rgb(0, 0, 0);
 }
 .txt{
-
-}
+  font-size: 35px;
+  color:rgb(0, 21, 31)
