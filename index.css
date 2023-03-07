@@ -47,4 +47,28 @@
 }
 .txt{
   font-size: 35px;
-  color:rgb(0, 21, 31)
+  color:rgb(0, 21, 31)</html>body{
+  background-color: rgb(182, 207, 238);
+  margin: 0;
+}
+
+.container{
+  width: 100%;
+  background-color: rgb(162, 179, 221);
+
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
+
+
+.bem_vindo{
+  font-size: 60px;
+  color: rgb(0, 0, 0);
+}
+.txt{
+  font-size: 35px;
+  color:+rgb(0, 21, 31)
+
+    
