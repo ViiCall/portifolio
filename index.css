@@ -1,24 +1,23 @@
-.container{
-  width: 100%;
-  background-color: rgb(162, 179, 221);
-
-  display: flex;
-
-  justify-content: center;
-  align-items: center;
+body {
+    font-size: 15pt;
 }
 
+backgroundcolor: d24dff
 
-.bem_vindo{
-  font-size: 60px;
-  color: rgb(0, 0, 0);
-}
-.txt{
-  font-size: 35px;
-  color:rgb(0, 21, 31)</html>body{
-  background-color: rgb(182, 207, 238);
-  margin: 0;
+ul {
+width:100%; 
+float:left; 
+text-align:center; 
 }
 
+li {
+padding-right: 25px;
+display: inline-block;
+list-style:none;
 
-    
+}
+li .cabecalho {
+font-family: 'open_sansbold';
+font-size:35px;
+color:red;
+}
